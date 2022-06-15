@@ -22,4 +22,4 @@
 
   - ## EMAIL
   
-    - ivanelloj@gmil.com
+    - mailto:ivanelloj@gmail.com?
