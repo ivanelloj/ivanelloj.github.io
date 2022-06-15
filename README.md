@@ -22,4 +22,4 @@
 
   - ## EMAIL
   
-    - mailto:ivanelloj@gmail.com?
+    - [ivanelloj@gmail.com](mailto:ivanelloj@gmail.com?)
