@@ -1,19 +1,19 @@
 # SOCIAL MEDIA
 
-## PHONE NUM
-  - 94414636
+  ## PHONE NUM
+    - 94414636
 
-## TELEGRAM
-  - @IvanHyperActive
+  ## TELEGRAM
+    - @IvanHyperActive
 
-## VIBER
-  - 94414636
+  ## VIBER
+    - 94414636
 
-## DISCORD
-  - HyperKun#2110
+  ## DISCORD
+    - HyperKun#2110
 
-## WHATS UP
-  - +357 94414636
+  ## WHATS UP
+    - +357 94414636
 
-## EMAIL
-  - ivanelloj@gmil.com
+  ## EMAIL
+    - ivanelloj@gmil.com
