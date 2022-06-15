@@ -1,6 +1,7 @@
 # SOCIAL MEDIA
 
 ## TELEGRAM
+  - @IvanHyperActive
 
 ## VIBER
 
