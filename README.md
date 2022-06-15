@@ -12,3 +12,8 @@
 ## DISCORD
   - HyperKun#2110
 
+## WHATS UP
+  -94414636
+
+## EMAIL
+  -ivanelloj@gmil.com
