@@ -7,7 +7,7 @@
   
   - ## TELEGRAM
   
-    - [@IvanHyperActive](https://msng.link/o/?@IvanHyperActive=tg)
+    - [@IvanHyperActive](https://t.me/IvanHyperActive)
 
   
   - ## VIBER
